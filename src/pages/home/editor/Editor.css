@@ -1,0 +1,11 @@
+.editor-content-container{
+    width: 858px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+
+.editor-img-box{
+    height: 298x !important;
+    width: 50%;
+}

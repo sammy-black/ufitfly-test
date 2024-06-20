@@ -1,0 +1,6 @@
+export *  as logoImg from "./nuntium.png"
+export *  as SearchIcon from "./searchIcon.png"
+export *  as featuredArticle from "./featuredArticle.png"
+export *  as editor1 from "./editor1.png"
+export *  as editor2 from "./editor2.png"
+export *  as editor3 from "./editor3.png"
